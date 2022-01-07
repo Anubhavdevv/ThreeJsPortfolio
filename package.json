@@ -10,6 +10,7 @@
     "vite": "^2.7.2"
   },
   "dependencies": {
+    "heroku": "^7.59.2",
     "three": "^0.136.0"
   }
 }
